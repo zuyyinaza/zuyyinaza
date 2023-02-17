@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Student at Polytechnic State of Semarang
 - 👀 &nbsp; I’m interested in Web Development
-- 🌱 &nbsp; I’m currently learning Cloud Computing and Web Programming-Development
+- 🌱 &nbsp; I’m currently learning Cloud Computing and Web Development
 
 ### Connect with me:
 [<img align="left" alt="Zuyyina Hanifatul Muizza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/zuyyina-hanifatul-muizza-84829a242/ "Zuyyina Hanifatul Muizza")
