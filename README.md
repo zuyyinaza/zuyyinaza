@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🎓 &nbsp; Student at Polytechnic State of Semarang
 - 👀 &nbsp; Exploring new technologies
+<!--- 🎓 &nbsp; Student at Polytechnic State of Semarang
+
 <!-- - 👀 &nbsp; I’m interested in Web Development
 <!-- - 🌱 &nbsp; I’m currently learning Cloud Computing and Web Development
 <!--
